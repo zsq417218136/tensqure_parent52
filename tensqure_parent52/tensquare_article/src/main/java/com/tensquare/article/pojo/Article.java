@@ -6,6 +6,9 @@ import javax.persistence.Table;
 import java.io.Serializable;
 import java.util.Date;
 
+/**
+ * rwerwe
+ */
 @Entity
 @Table(name = "tb_article")
 public class Article implements Serializable {
